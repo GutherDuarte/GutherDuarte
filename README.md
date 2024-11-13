@@ -1,11 +1,11 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/74472292?s=400&u=0a8aeed4129c8f673ce6d65535e1d56654f51cf0&v=4" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/74472292?s=400&u=0a8aeed4129c8f673ce6d65535e1d56654f51cf0&v=4" style="border-radius: 50%;" />
    <h3 align="center">¡Hey 👋! Soy Guther 👨🏻‍💻</h3>
 </p>
 
 <div align="center">
    
-   ![gutherduarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutherduarte&show_icons=true&locale=es&theme=onerdark#gh-dark-mode-only)
+   ![gutherduarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutherduarte&show_icons=true&locale=es&theme=onerdark)
    
 </div>
 
