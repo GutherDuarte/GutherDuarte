@@ -5,8 +5,7 @@
 
 <div align="center">
    
-   ![gutherduarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutherduarte&show_icons=true&theme=onerdark)
-   
+   [![gutherduarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=gutherduarte&show_icons=true&theme=onerdark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <p align="center">
@@ -20,6 +19,6 @@
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://twitter.com/gutherduarte" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Canal de Twitter de Guther" height="23px" width="28px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/X_icon_-_Gray.svg" alt="Canal de Twitter de Guther" height="23px" width="28px" />
   </a>
 </p>
